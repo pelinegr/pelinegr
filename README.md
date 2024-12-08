@@ -9,7 +9,7 @@ I really enjoy the possibility of finding solutions to real-world problems, and 
 ✨What we did: Developed a tree based model that predicts the electricity demand in Texas, and utilized LLMs to explain the decisions made by the model to enhance transparency and interpretability.
 ⚒️Tools: Python, scikit-learn, ChatGPT
 
-# 🛠 Tech Stack:
+## 🛠 Tech Stack:
 Languages: Python, Java, C
 Data Science: Pandas, NumPy, scikit-learn, MatPlotLib
 Web Dev: HTML, CSS, Django
